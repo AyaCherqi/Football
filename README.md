@@ -1,6 +1,6 @@
 <div align="center">
 
-# QuantIntelli+ ⚽️
+# IntelliBot+ ⚽️
 
 ### A Hybrid AI Agent for Quantitative Football Prediction Analysis
 
